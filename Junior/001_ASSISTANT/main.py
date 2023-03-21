@@ -177,8 +177,8 @@ def run():
 if __name__ == '__main__':
 
     # OpenAI API initialisation
-    openai.organization = "inset-key"
-    openai.api_key = "inset-key"
+    openai.organization = "inset-key-here"
+    openai.api_key = "inset-key-here"
     # api_key = "inset-key" # for whisper api speechreconigtion
     proc_speak = []
 
