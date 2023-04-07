@@ -1,7 +1,7 @@
 # personal-projects
 Include all of my personal projects and codes in 2023.
 
-## (001_Assistant_2023)[https://github.com/min-hyo-2k/001_Assistant]
+## [001_Assistant_2023](https://github.com/min-hyo-2k/001_Assistant)
 :book: In this project, I have learned:
 - How to make a small voice assistant.
 - Implementing the multiprocessing/threading module for parallel task execution and creating several assistant functions.
